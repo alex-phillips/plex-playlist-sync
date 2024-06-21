@@ -135,3 +135,5 @@ Notebooks/
 # files
 *.ipynb
 .*.py
+
+config.ini
